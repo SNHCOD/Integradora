@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon|Montserrat|Open+Sans|Teko&display=swap');
+
+body {
+    padding: 5px;
+    padding-top: 0;
+}
+
+.head {
+    height: 25px;
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    border: rgb(0, 0, 0) none;
+    position: relative;
+    padding: 0;
+    display: flex;
+}
+
+.header {
+    padding: 10px;
+    padding-top: 0;
+    background-image: url(http://bookersnap.com/archivo/img-background/af0b7dbfcb-12728944-959712457416210-4117139609833753592-n.jpg) ;
+    background-size: 100%;
+    background-position-y: 50%;
+    width: 100%;
+    height: 290px;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Coming Soon', cursive;
+    font-size: 40px;
+    padding: 8px;
+    color: white;
+    width: 250px;
+}
